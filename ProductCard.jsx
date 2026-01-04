@@ -1,0 +1,2 @@
+image: "/product.svg"
+
